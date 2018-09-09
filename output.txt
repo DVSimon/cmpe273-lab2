@@ -1,2 +1,1 @@
-C:\Users\denni\Documents\cmpe273-lab2>calculator_client.py
 Result = 25
